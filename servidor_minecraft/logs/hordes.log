@@ -1,21 +1,6 @@
 Trying to load common config
 Trying to load client config
-Hordes data does not exist, generating new files.
-Copied file config_defaults/hordes-info.json
-Copied file config_defaults/pack.mcmeta
-Copied file config_defaults/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json
-Copied file config_defaults/data/hordes/tags/items/infection_cures.json
-Copied file config_defaults/data/hordes/tags/entity_types/infection_entities.json
-Copied file config_defaults/data/hordes/horde_data/tables/skeletons.json
-Copied file config_defaults/data/hordes/horde_data/tables/mixed_mobs.json
-Copied file config_defaults/data/hordes/horde_data/tables/illagers.json
-Copied file config_defaults/data/hordes/horde_data/tables/drowned.json
-Copied file config_defaults/data/hordes/horde_data/tables/default.json
-Copied file config_defaults/data/hordes/horde_data/scripts/default.json
-Copied file config_defaults/data/hordes/horde_data/infection_conversions.json
-Copied file config_defaults/data/hordes/horde_data/immunity_items.json
-Copied file config_defaults/data/hordes/horde_data/immune_wearables.json
-Generated data files.
+Config files are up to date, skipping data/asset generation
 Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
 Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
 Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40

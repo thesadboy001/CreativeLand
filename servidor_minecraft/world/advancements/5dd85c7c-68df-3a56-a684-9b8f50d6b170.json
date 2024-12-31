@@ -11,9 +11,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-31 04:39:23 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-29 19:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 04:41:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-31 04:43:00 +0000"
     },
     "done": true
   },
@@ -54,6 +72,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-31 04:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-31 04:39:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-29 19:38:35 +0000"
@@ -84,6 +114,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 04:43:00 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2024-12-29 19:37:13 +0000"
@@ -100,7 +136,8 @@
     "criteria": {
       "woodland": "2024-12-30 17:26:46 +0000",
       "mediterranean_forest": "2024-12-30 17:27:13 +0000",
-      "dryland": "2024-12-29 19:37:44 +0000"
+      "dryland": "2024-12-29 19:37:44 +0000",
+      "wasteland": "2024-12-31 04:45:01 +0000"
     },
     "done": false
   },
@@ -158,6 +195,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-29 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 04:43:00 +0000"
     },
     "done": true
   },
@@ -234,9 +277,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-31 04:43:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-29 19:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 04:41:06 +0000"
     },
     "done": true
   },
@@ -258,9 +313,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-31 04:43:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-30 17:24:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 04:41:06 +0000"
     },
     "done": true
   },
@@ -300,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-31 04:39:23 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_savanna": "2024-12-29 19:37:44 +0000"
@@ -327,6 +400,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-29 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-31 04:43:00 +0000"
     },
     "done": true
   },

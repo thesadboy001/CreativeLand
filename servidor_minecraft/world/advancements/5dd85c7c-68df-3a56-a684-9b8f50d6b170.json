@@ -98,6 +98,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-30 17:26:46 +0000",
+      "mediterranean_forest": "2024-12-30 17:27:13 +0000",
       "dryland": "2024-12-29 19:37:44 +0000"
     },
     "done": false
@@ -117,6 +119,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-29 19:39:22 +0000",
+      "minecraft:forest": "2024-12-30 17:26:52 +0000",
+      "minecraft:savanna": "2024-12-30 17:28:12 +0000",
       "minecraft:plains": "2024-12-29 19:37:12 +0000"
     },
     "done": false
@@ -253,6 +257,12 @@
       "minecraft:zombie": "2024-12-30 17:24:12 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-30 17:24:58 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {

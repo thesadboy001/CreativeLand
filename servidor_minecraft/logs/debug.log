@@ -9154,3 +9154,13 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [31Dec2024 05:02:04.483] [Worker-Main15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main15 shutdown
 [31Dec2024 05:03:04.483] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
 [31Dec2024 05:04:04.483] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
+[31Dec2024 05:05:04.483] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main8 shutdown
+[31Dec2024 05:05:04.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:05:04.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:06:04.483] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[31Dec2024 05:07:04.483] [Worker-Main5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main5 shutdown
+[31Dec2024 05:08:04.483] [Worker-Main10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main10 shutdown
+[31Dec2024 05:09:04.483] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main14 shutdown
+[31Dec2024 05:10:04.483] [Worker-Main12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main12 shutdown
+[31Dec2024 05:10:04.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:10:04.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
